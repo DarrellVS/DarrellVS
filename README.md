@@ -1,12 +1,13 @@
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=arslee07&show_icons=true&theme=dracula) -->
 
 ## Stack: 
-![NODEJS](/labels/nodejs.png)
+![NODEJS](/labels/nodejs.png) ![PYTHON](/labels/python.png) ![JAVA](/labels/java.png) ![HTML](/labels/html.png) ![CSS](/labels/css.png) ![JAVASCRIPT](/labels/javascript.png)
 
 ## Currently learning:
-![Svelte](https://shields.io/badge/Svelte-F03C0A?logo=svelte&style=for-the-badge&logoColor=white) ![Dart](https://shields.io/badge/Dart-blue?logo=dart&style=for-the-badge) ![Flutter](https://shields.io/badge/Flutter-02569b?logo=flutter&style=for-the-badge)
+![REACT](/logos/react.png)
 
-## Contacts:
-* Telegram - [@arslee](https://t.me/arslee)
-* Discord  - [@arslee#4994](https://dsc.bio/ars)
-* Email    - [me@arslee.dev](mailto:me@arslee.dev)
+## Socials:
+* Portfolio   - [darrellvs.nl](https://darrellvs.nl)
+* LinkedIn    - [Darrell van Swinderen](https://link.darrellvs.nl/linkedin)
+* GitHub      - [DarrellVS](https://link.darrellvs.nl/github)
+* Instagram   - [@darrell.vs](https://link.darrellvs.nl/instagram)
