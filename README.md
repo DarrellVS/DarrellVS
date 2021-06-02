@@ -1,16 +1,13 @@
-### Hi there 👋
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=arslee07&show_icons=true&theme=dracula) -->
 
-<!--
-**DarrellVS/DarrellVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack: 
+![NODEJS](/labels/nodejs.png) ![PYTHON](/labels/python.png) ![JAVA](/labels/java.png) ![HTML](/labels/html.png) ![CSS](/labels/css.png) ![JAVASCRIPT](/labels/javascript.png)
 
-Here are some ideas to get you started:
+## Currently learning:
+![REACT](/logos/react.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials:
+* Portfolio   - [darrellvs.nl](https://darrellvs.nl)
+* LinkedIn    - [Darrell van Swinderen](https://link.darrellvs.nl/linkedin)
+* GitHub      - [DarrellVS](https://link.darrellvs.nl/github)
+* Instagram   - [@darrell.vs](https://link.darrellvs.nl/instagram)
