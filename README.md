@@ -1,4 +1,3 @@
-## Stack: 
 ![NODEJS](/labels/nodejs.png) ![PYTHON](/labels/python.png) ![JAVA](/labels/java.png) ![HTML](/labels/html.png) ![CSS](/labels/css.png) ![JAVASCRIPT](/labels/javascript.png)
 
 ## Currently learning:
