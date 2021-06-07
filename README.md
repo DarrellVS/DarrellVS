@@ -4,7 +4,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DarrellVS&count_private=true&show_icons=true&hide=stars,issues">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrellVS&layout=compact">
 
-<h3>Experience with</h3>
+<h2>Experience with</h2>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="/labels/nodejs.png">
     <img src="/labels/nodejs.png" alt="NODEJS" style="max-width:100%;">
@@ -26,14 +26,14 @@
   </a>
 </p>
 
-<h3>Currently learning</h3>
+<h2>Currently learning</h2>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="/labels/react.png">
     <img src="/labels/react.png" alt="REACT" style="max-width:100%;">
   </a>
 </p>
 
-<h3>Socials</h3>
+<h2>Socials</h2>
 <ul>
   <li>Portfolio   - <a href="https://darrellvs.nl" rel="nofollow">darrellvs.nl</a></li>
   <li>LinkedIn    - <a href="https://link.darrellvs.nl/linkedin" rel="nofollow">Darrell van Swinderen</a></li>
