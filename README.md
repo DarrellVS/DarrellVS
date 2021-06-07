@@ -4,22 +4,22 @@
 <h3>Experience with</h3>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="/labels/nodejs.png">
-    <img src="/DarrellVS/DarrellVS/raw/main/labels/nodejs.png" alt="NODEJS" style="max-width:100%;">
+    <img src="/labels/nodejs.png" alt="NODEJS" style="max-width:100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer" href="/labels/python.png">
-    <img src="/DarrellVS/DarrellVS/raw/main/labels/python.png" alt="PYTHON" style="max-width:100%;">
+    <img src="/labels/python.png" alt="PYTHON" style="max-width:100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer" href="/labels/java.png">
-    <img src="/DarrellVS/DarrellVS/raw/main/labels/java.png" alt="JAVA" style="max-width:100%;">
+    <img src="/labels/java.png" alt="JAVA" style="max-width:100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer" href="/labels/html.png">
-    <img src="/DarrellVS/DarrellVS/raw/main/labels/html.png" alt="HTML" style="max-width:100%;">
+    <img src="/labels/html.png" alt="HTML" style="max-width:100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer" href="/labels/css.png">
-    <img src="/DarrellVS/DarrellVS/raw/main/labels/css.png" alt="CSS" style="max-width:100%;">
+    <img src="/labels/css.png" alt="CSS" style="max-width:100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer" href="/labels/javascript.png">
-    <img src="/DarrellVS/DarrellVS/raw/main/labels/javascript.png" alt="JAVASCRIPT" style="max-width:100%;">
+    <img src="/labels/javascript.png" alt="JAVASCRIPT" style="max-width:100%;">
   </a>
 </p>
 
