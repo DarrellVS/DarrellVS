@@ -26,13 +26,6 @@
   </a>
 </p>
 
-<h2>Currently learning</h2>
-<p>
-  <a target="_blank" rel="noopener noreferrer" href="/labels/react.png">
-    <img src="/labels/react.png" alt="REACT" style="max-width:100%;">
-  </a>
-</p>
-
 <h2>Socials</h2>
 <ul>
   <li>Portfolio   - <a href="https://darrellvs.nl" rel="nofollow">darrellvs.nl</a></li>
