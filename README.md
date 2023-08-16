@@ -2,6 +2,9 @@
 <h3 align="center">Junior Software Developer</h3>
 
 <br>
+<h2 align="center">I've got a lot of private repositories</h2>
+<p align="center">Please check my portfolio if you are interested in my work!</p>
+<br>
 <h2>Experience with</h2>
 <p>
   <a target="_blank" rel="noopener noreferrer" href="/labels/nodejs.png">
