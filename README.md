@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Darrell</h1>
-<h3 align="center">Computer sciences student and part-time taco-baker.</h3>
+<h3 align="center">Junior Software Developer</h3>
 
 <br>
 <h2>Experience with</h2>
