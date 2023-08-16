@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Darrell</h1>
 <h3 align="center">Computer sciences student and part-time taco-baker.</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrellVS&langs_count=3">
-<img src="https://github-readme-stats.vercel.app/api?username=DarrellVS&count_private=true&show_icons=true&hide=stars&custom_title=DarrellVS%27%20GitHub%20Stats">
 <br>
 <h2>Experience with</h2>
 <p>
